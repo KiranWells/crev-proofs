@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-06-02T18:44:03.455511716-05:00
+from:
+  id-type: crev
+  id: bzPx6xOo2TNA3k4eyZr0QQBgHESI0efzhp7f36OLgiU
+  url: https://github.com/KiranWells/crev-proofs
+package:
+  source: https://crates.io
+  name: simd_helpers
+  version: 0.1.0
+  revision: ca1a2f84aa386d758e98f8a609d990263932fb85
+  digest: wFdZZSIncWtOwY1QRqe647Kf8rGC8z4AFsMJDAXCPE0
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Trivial proc macro crate that makes some cfg attributes shorter to define.
+----- SIGN CREV PROOF -----
+qM5Q-IkfXlk2BVqtFlX1DOj-tE_3qUygjfFxk7zm_nJUU0tC9DmL--zCorlVikrsgAx8ercwdRLCvCdW-Zd1Bw
+----- END CREV PROOF -----
+
