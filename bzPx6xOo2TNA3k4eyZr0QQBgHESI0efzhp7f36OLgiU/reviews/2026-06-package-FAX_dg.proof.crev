@@ -22,3 +22,27 @@ comment: |-
 qM5Q-IkfXlk2BVqtFlX1DOj-tE_3qUygjfFxk7zm_nJUU0tC9DmL--zCorlVikrsgAx8ercwdRLCvCdW-Zd1Bw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2026-06-02T18:49:24.122490023-05:00
+from:
+  id-type: crev
+  id: bzPx6xOo2TNA3k4eyZr0QQBgHESI0efzhp7f36OLgiU
+  url: https://github.com/KiranWells/crev-proofs
+package:
+  source: https://crates.io
+  name: gpu-descriptor-types
+  version: 0.2.0
+  revision: 9f2fb9546591322e7b77ee1e79385e01effd85e4
+  digest: HnXgr3tZD_7-HY5ifAEbmDYICGq1A5E5A5yz6s0sEAA
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Basic shared types for the GPU descriptor crates.
+----- SIGN CREV PROOF -----
+yS14seOeyURTHuTd_uHa0woijXT7cIlasDSzrMIichD2FcqYamgZG-QcE95LrbRHg4WlH0oY9bq9qh5PR3M2Dg
+----- END CREV PROOF -----
+
